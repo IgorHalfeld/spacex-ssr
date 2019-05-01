@@ -1,6 +1,13 @@
-# blog-app
+<p align="center">
+  <h2 align="center">
+    SpaceX SSR
+  </h2>
+  <p align="center">
+    My demo app for <a href="https://www.youtube.com/channel/UCgRzOTVWlyshyIgmxtbYgaQ">Azure Brazil Community</a>
+  </p>
+</p>
 
-> My tremendous Nuxt.js project
+![screenshot](/screen.png)
 
 ## Build Setup
 
